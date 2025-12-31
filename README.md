@@ -47,11 +47,10 @@
 
 ## 📫 联系方式
 
-• GitHub: [@你的用户名](https://github.com/你的用户名)（替换为你的 GitHub 用户名）
+• GitHub: https://github.com/zhangxd12
 
-• 邮箱: your-email@example.com（替换为你的邮箱，可选）
+• 邮箱: xiaodezhang@tencent.com
 
 ---
 
 最后更新：2025年12月31日
-> （注：文档部分内容可能由 AI 生成）
